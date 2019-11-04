@@ -1,0 +1,16 @@
+{
+    "total_ordered_qty": 5,
+    "items": {
+        "1000": {
+            "qc_passed": 0,
+            "qc_failed": 0,
+            "quantity": 50
+        },
+        "10001": {
+            "qc_passed": 0,
+            "qc_failed": 0,
+            "quantity": 20
+        }
+    },
+    "total_received_qty": 8
+}
